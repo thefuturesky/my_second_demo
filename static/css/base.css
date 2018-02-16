@@ -1,0 +1,14 @@
+.base-avatar{
+    width: 50px;
+    position: fixed;
+    top: 0px;
+}
+.body{
+    background: #f3f3f3;
+}
+.main{
+    width: 900px;
+    background: #fff;
+    margin: 0 auto;
+    overflow: hidden;
+}
